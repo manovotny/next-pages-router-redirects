@@ -2,7 +2,7 @@
 
 > Examples how to do redirects in Next.js Pages Router
 
-https://next-pages-router-redirects.vercel.app/
+https://next-pages-router-redirects.vercel.app
 
 ## Related
 
